@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Ali Tolibov, a frontend react and vue developer
 - 👀 Eagerly learning the art of backend 
--   Reach me at [@ravshanov021](https://t.me/alixvvl)
+-   Reach me at [@alixvvl](https://t.me/alixvvl)
